@@ -1,0 +1,18 @@
+# Build artifacts
+/build*/
+/cmake-build-*/
+/.vs/
+/out/
+/bin/
+/obj/
+*.exe
+*.ilk
+*.pdb
+*.user
+*.VC.db
+*.suo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
