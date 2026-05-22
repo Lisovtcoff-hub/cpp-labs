@@ -42,7 +42,6 @@ add_lab(kr3_pr08_task04_power_of_two kr3/practice08_recursion/task04_power_of_tw
 add_lab(kr3_pr08_task05_ackermann    kr3/practice08_recursion/task05_ackermann)
 add_lab(kr3_pr08_task06_pow_fast     kr3/practice08_recursion/task06_pow_fast)
 add_lab(kr3_pr08_task07_digit_sum    kr3/practice08_recursion/task07_digit_sum)
-add_lab(kr3_pr08_task08_max_count    kr3/practice08_recursion/task08_max_count)
 
 # kr4
 # add_lab(kr4_pr09_structs        kr4/practice09_structs)
