@@ -1,29 +1,13 @@
-# kr2 practice 0 -
+# kr2 practice 08 - task01_sqrt
 
-## Текст задачи (Вриант 12)
+## Текст задачи
 
+![Задача 1](https://github.com/Lisovtcoff-hub/cpp-labs/blob/master/docs/tasksphotos/task08-01.jpg)
 
-
-## Тесты
-
-### Тест 1
-Ввод:
-```
-
-```
+## Тест
 
 Вывод:
 ```
-
-```
-
-### Тест 2
-Ввод:
-```
-
-```
-
-Вывод:
-```
-
+1.41421
+1.41421
 ```

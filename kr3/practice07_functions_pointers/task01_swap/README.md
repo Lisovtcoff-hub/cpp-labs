@@ -1,4 +1,4 @@
-# kr2 practice 0 -
+# kr2 practice 07 - task01_swap
 
 ## Текст задачи
 
