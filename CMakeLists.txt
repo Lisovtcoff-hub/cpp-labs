@@ -33,7 +33,6 @@ add_lab(kr2_pr06_strings kr2/practice06_arrays_strings/strings)
 add_lab(kr3_pr07_task01_swap             kr3/practice07_functions_pointers/task01_swap)
 add_lab(kr3_pr07_task02_function_pointer kr3/practice07_functions_pointers/task02_function_pointer)
 add_lab(kr3_pr07_task03_overload_min_max kr3/practice07_functions_pointers/task03_overload_min_max)
-add_lab(kr3_pr07_task04_series_params    kr3/practice07_functions_pointers/task04_series_params)
 
 # kr3 - practice 8
 add_lab(kr3_pr08_task01_sqrt         kr3/practice08_recursion/task01_sqrt)
