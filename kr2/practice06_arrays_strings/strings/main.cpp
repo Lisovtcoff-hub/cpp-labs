@@ -162,9 +162,47 @@ int main()
             }
         }
 
-        bool isV = false;
+        bool isV = true;
+        char v[] = "в";
 
-        if ((words[i][0] == 'в' || words[i][0] == 'В') && words[i][1] == '\0')
+        int p2 = 0;
+
+        while (words[i][p2] != '\0' && v[p2] != '\0')
+        {
+            if (words[i][p2] != v[p2])
+            {
+                isV = false;
+            }
+
+            p2++;
+        }
+
+        if (words[i][p2] != '\0' || v[p2] != '\0')
+        {
+            isV = false;
+        }
+
+        bool isBigV = true;
+        char bigV[] = "В";
+
+        p2 = 0;
+
+        while (words[i][p2] != '\0' && bigV[p2] != '\0')
+        {
+            if (words[i][p2] != bigV[p2])
+            {
+                isBigV = false;
+            }
+
+            p2++;
+        }
+
+        if (words[i][p2] != '\0' || bigV[p2] != '\0')
+        {
+            isBigV = false;
+        }
+
+        if (isBigV)
         {
             isV = true;
         }
